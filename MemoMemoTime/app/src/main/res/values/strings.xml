@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memo Memo Time</string>
+    <string name="btn_text">ここで一句</string>
+    <string name="memo_text">一言メモ</string>
+    <string name="save_text">保存</string>
+    <string name="saved_text">保存しました</string>
+    <string name="cancel_text">キャンセル</string>
+    <string name="error_text">現在位置は表示できません</string>
+</resources>
